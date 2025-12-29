@@ -9,7 +9,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, Statistics and Analytics, University of North Carolina at Chapel Hill, Dec 2026 (expected)
-* Coursework in Mathematics, Data Science, GitHub University, University of Texas at Dallas, Aug 2023 - May 2025
+* Coursework in Mathematics, Data Science, University of Texas at Dallas, Aug 2023 - May 2025
 ======
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
